@@ -1,5 +1,5 @@
 {
-  "name": "StrausmannServices/figo",
+  "name": "figo/figo",
   "description": "API wrapper for figo Connect.",
   "homepage": "https://github.com/figo-connect/php-figo",
   "version": "1.2.0",
